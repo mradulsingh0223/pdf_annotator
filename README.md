@@ -5,7 +5,7 @@ This project is based on the npm library [react-pdf](https://www.npmjs.com/packa
 ## Tech Stack
 1. ReactJS in the frontend of this project. Vite is used as the build tool.
 2. TailwindCSS for styling the components.
-3. Vercel for deployment.
+3. Netlify for deployment.
 
 ## How to run the project
 1. Clone the project
